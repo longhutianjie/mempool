@@ -430,7 +430,7 @@ class ForensicsService {
             // penalty close, so local node takes everything
             localClosingBalance += output.value;
           } else if (output.node) {
-            // this output determinstically linked to one of the counterparties
+            // this output deterministically linked to one of the counterparties
             if (output.node === prevLocal) {
               localClosingBalance += output.value;
             } else {

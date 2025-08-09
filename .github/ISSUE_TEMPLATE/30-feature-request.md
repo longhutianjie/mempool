@@ -16,7 +16,7 @@ about: Request a feature or suggest other enhancements
 
 ### Problem to be solved
 
-<!-- description of the the problem you're having -->
+<!-- description of the problem you're having -->
 
 ### Proposed solution
 
